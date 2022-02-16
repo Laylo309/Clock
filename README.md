@@ -28,7 +28,6 @@ To get a local copy up and running follow these simple example steps.
 ## Getting Started
 
 - I have used HTML CSS and JavaScript.
-- I've included linters to improve and cleaning all of my code.
 
 ### Prerequisites
 
